@@ -1,16 +1,32 @@
-### Hi there 👋
+<br>
+<br>
+Welcome to my GitHub! My name is Frank and this is where I showcase most of my work and keep my code organised. Feel free to look at my work.
 
-<!--
-**IAmMisterFrank/IAmMisterFrank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚡ Relevant achievements
+- Made a podcast about my iOS internship called The Interns!
+- Fourth year student @Hogeschool Rottedam studying Creative Media & Game Technologies
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✔️ I'm currently learning
+- JavaScript
+- Swift
+
+### 👩‍💻 I'm working on
+- Working on Split Mind, an iOS application with Augmented Reality.
+- Finding a graduation internship at an awesome company for 2021!
+
+### 💡 Goals for 2020
+- Finding an awesome internship as an iOS developer
+- Build more iOS projects for my portfolio
+- Finally finishing Sapiens and A Storm of Swords. Damn that book is long.
+
+### 🌴 Fun facts
+- Heavy metal is my taste of music
+- Born in the Netherlands but fluent in English
+
+### ☕ Get in touch
+- LinkedIn: <a href = "https://www.linkedin.com/in/franksolleveld/">franksolleveld</a>
+- Twitter: <a href = "https://twitter.com/FrankSolleveld">@FrankSolleveld</a>
+- Website: <a href = "https://devfrank.org">devfrank.org</a>
+<br>
+<br>
