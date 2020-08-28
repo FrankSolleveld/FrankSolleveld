@@ -22,7 +22,6 @@ Welcome to my GitHub! My name is Frank and this is where I showcase most of my w
 
 ### 🌴 Fun facts
 - Heavy metal is my taste of music
-- Born in the Netherlands but fluent in English
 
 ### ☕ Get in touch
 - LinkedIn: <a href = "https://www.linkedin.com/in/frank-solleveld-11017b138">Frank Solleveld</a>
