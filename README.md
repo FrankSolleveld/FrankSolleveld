@@ -25,7 +25,7 @@ Welcome to my GitHub! My name is Frank and this is where I showcase most of my w
 - Born in the Netherlands but fluent in English
 
 ### ☕ Get in touch
-- LinkedIn: <a href = "https://www.linkedin.com/in/franksolleveld/">franksolleveld</a>
+- LinkedIn: <a href = "https://www.linkedin.com/in/frank-solleveld-11017b138">Frank Solleveld</a>
 - Twitter: <a href = "https://twitter.com/FrankSolleveld">@FrankSolleveld</a>
 - Website: <a href = "https://devfrank.org">devfrank.org</a>
 <br>
