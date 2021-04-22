@@ -5,7 +5,7 @@ Welcome to my GitHub! My name is Frank and this is where I showcase most of my w
 ### ⚡ Relevant achievements
 - Made a podcast about my 2019 iOS internship called The Interns!
 - Launched my own portfolio
-- Fourth year student @Hogeschool Rottedam studying Creative Media & Game Technologies
+- Fourth year BSc student @Hogeschool Rottedam studying Creative Media & Game Technologies
 
 
 ### ✔️ I'm currently learning
