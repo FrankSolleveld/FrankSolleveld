@@ -8,17 +8,15 @@ Welcome to my GitHub! My name is Frank and this is where I showcase most of my w
 
 
 ### ✔️ I'm currently learning
-- JavaScript
-- Swift
+- SwiftUI
 
 ### 👩‍💻 I'm working on
-- Working on Split Mind, an iOS application with Augmented Reality.
-- Finding a graduation internship at an awesome company for 2021!
+- Working on getting my SwiftUI skills up and going
+- Trying to make a RESTful back-end API for FaceJS so I can communicate with it trough an iOS app!
 
-### 💡 Goals for 2020
-- Finding an awesome internship as an iOS developer
-- Build more iOS projects for my portfolio
-- Finally finishing Sapiens and A Storm of Swords. Damn that book is long.
+### 💡 Goals for 2021
+- Graduate!
+- Land a job as a developer after graduation. 
 
 ### 🌴 Fun facts
 - Heavy metal is my taste of music
