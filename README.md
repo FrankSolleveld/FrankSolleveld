@@ -3,7 +3,7 @@
 Welcome to my GitHub! My name is Frank and this is where I showcase most of my work and keep my code organised. Feel free to look at my work.
 
 ### ⚡ Relevant achievements
-- Made a podcast about my iOS internship called The Interns!
+- Made a podcast about my 2019 iOS internship called The Interns!
 - Launched my own portfolio
 - Fourth year student @Hogeschool Rottedam studying Creative Media & Game Technologies
 
