@@ -13,7 +13,7 @@ Welcome to my GitHub! My name is Frank and this is where I showcase most of my w
 
 ### 👩‍💻 I'm working on
 - Working on getting my SwiftUI skills up and going
-- Trying to make a RESTful back-end API for FaceJS so I can communicate with it trough an iOS app!
+- Trying to make a RESTful back-end API for FaceApi.js so I can communicate with it trough an iOS app!
 
 ### 💡 Goals for 2021
 - Graduate!
