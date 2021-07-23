@@ -13,7 +13,7 @@ Welcome to my GitHub! My name is Frank and this is where I showcase most of my w
 
 ### 👩‍💻 I'm working on
 - Working on getting my SwiftUI skills up and going
-- Graduation thesis
+- My graduation research at a company called Adelee that is working on Huddle, a video messaging personal media platform on iOS. I am working on making the app multi platform (iPad and Mac) with a focus on making it for grandparents.
 
 ### 💡 Goals for 2021
 - Graduate!
