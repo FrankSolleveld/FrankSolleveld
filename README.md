@@ -5,19 +5,17 @@ Welcome to my GitHub! My name is Frank and this is where I showcase most of my w
 ### ⚡ Relevant achievements
 - Made a podcast about my 2019 iOS internship called The Interns!
 - Launched my own portfolio
-- Fourth year BSc student @Hogeschool Rottedam studying Creative Media & Game Technologies
+- Graduated at the University of Applied Sciences in 2021 
 
 
 ### ✔️ I'm currently learning
-- SwiftUI
+- Redux
 
 ### 👩‍💻 I'm working on
-- Working on getting my SwiftUI skills up and going
-- My graduation research at a company called Adelee that is working on Huddle, a video messaging personal media platform on iOS. I am working on making the app multi platform (iPad and Mac) with a focus on making it for grandparents.
+- an app called Adelee which is available on iPhone and iPad.
 
-### 💡 Goals for 2021
-- Graduate!
-- Land a job as a developer after graduation. 
+### 💡 Goals for 2022
+- Continueing my work at Adelee and mastering redux
 
 ### 🌴 Fun facts
 - Heavy metal is my taste of music
