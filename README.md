@@ -16,6 +16,7 @@ Welcome to my GitHub! My name is Frank and this is where I showcase most of my w
 
 ### 💡 Goals for 2022
 - Continueing my work at Adelee and mastering redux
+- Building Thoughts and submit it to the App Store
 
 ### 🌴 Fun facts
 - Heavy metal is my taste of music
