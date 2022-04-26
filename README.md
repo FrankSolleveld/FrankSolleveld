@@ -17,6 +17,7 @@ Welcome to my GitHub! My name is Frank and this is where I showcase most of my w
 
 ### 💡 Goals for 2022
 - Building Thoughts and submit it to the App Store
+- TestFlight for Thought Journal available now [here](https://t.co/ssoPWFERNE)
 
 ### 🌴 Fun facts
 - Heavy metal is my taste of music
