@@ -12,12 +12,11 @@ Welcome to my GitHub! My name is Frank and this is where I showcase most of my w
 - Composable Architecture for Swift applications by Point Free
 
 ### 👩‍💻 I'm working on
-- an app called Adelee which is available on iPhone and iPad.
-- a personal project concerning cognitive behavioural therapy called Thoughts.
+- a personal project concerning cognitive behavioural therapy called AltoThought.
+- the NS International app from Nationale Spoorwegen.
 
 ### 💡 Goals for 2022
-- Building Thoughts and submit it to the App Store
-- TestFlight for Thought Journal available now [here](https://t.co/ssoPWFERNE)
+- Submitting AltoThought to the App Store, which is now Live! (App Store Link)[https://apps.apple.com/nl/app/altothought/id1620703133?l=en]
 
 ### 🌴 Fun facts
 - Heavy metal is my taste of music
