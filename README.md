@@ -16,7 +16,7 @@ Welcome to my GitHub! My name is Frank and this is where I showcase most of my w
 - the NS International app from Nationale Spoorwegen.
 
 ### 💡 Goals for 2022
-- Submitting AltoThought to the App Store, which is now Live! (App Store Link)[https://apps.apple.com/nl/app/altothought/id1620703133?l=en]
+- Submitting AltoThought to the App Store, which is now Live! [App Store Link](https://apps.apple.com/nl/app/altothought/id1620703133?l=en)
 
 ### 🌴 Fun facts
 - Heavy metal is my taste of music
