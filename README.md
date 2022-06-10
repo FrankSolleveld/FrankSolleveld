@@ -9,7 +9,7 @@ Welcome to my GitHub! My name is Frank and this is where I showcase most of my w
 
 
 ### ✔️ I'm currently learning
-- Composable Architecture for Swift applications by Point Free
+- All the new goodies from Apples WWDC22.
 
 ### 👩‍💻 I'm working on
 - a personal project concerning cognitive behavioural therapy called AltoThought.
