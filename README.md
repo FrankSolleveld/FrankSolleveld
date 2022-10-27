@@ -4,12 +4,12 @@ Welcome to my GitHub! My name is Frank and this is where I showcase most of my w
 
 ### ⚡ Relevant achievements
 - Made a podcast about my 2019 iOS internship called The Interns!
-- Launched my own portfolio
 - Graduated at the University of Applied Sciences in 2021 
+- Published an app called ['AltoThought'](https://apps.apple.com/nl/app/altothought/id1620703133?l=en) to the Apple App Store.
 
 
 ### ✔️ I'm currently learning
-- All the new goodies from Apples WWDC22.
+- iCloud syncronization and in-app purchases
 
 ### 👩‍💻 I'm working on
 - a personal project concerning cognitive behavioural therapy called AltoThought.
