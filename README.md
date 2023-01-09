@@ -15,8 +15,9 @@ Welcome to my GitHub! My name is Frank and this is where I showcase most of my w
 - a personal project concerning cognitive behavioural therapy called AltoThought.
 - the NS International app from Nationale Spoorwegen.
 
-### 💡 Goals for 2022
-- Submitting AltoThought to the App Store, which is now Live! [App Store Link](https://apps.apple.com/nl/app/altothought/id1620703133?l=en)
+### 💡 Goals for 2023
+- Adding iCloud Synchronization to AltoThought
+- Make a first version of MyESO. An iOS app that serves as a companion for ESO players.
 
 ### 🌴 Fun facts
 - Heavy metal is my taste of music
