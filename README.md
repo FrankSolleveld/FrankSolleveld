@@ -12,8 +12,9 @@ Welcome to my GitHub! My name is Frank and this is where I showcase most of my w
 - iCloud syncronization and in-app purchases
 
 ### 👩‍💻 I'm working on
-- a personal project concerning cognitive behavioural therapy called AltoThought.
 - the NS International app from Nationale Spoorwegen.
+- myESO: Elder Scrolls Online Companion app.
+- AltoThought: an iOS app for cognitive behavioral therapy.
 
 ### 💡 Goals for 2023
 - Adding iCloud Synchronization to AltoThought
