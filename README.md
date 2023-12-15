@@ -9,14 +9,14 @@ Welcome to my GitHub! My name is Frank and this is where I showcase most of my w
 
 
 ### ✔️ I'm currently learning
-- iCloud syncronization and in-app purchases
+- DI, Routing, iCloud, Hosting
 
 ### 👩‍💻 I'm working on
 - the NS International app from Nationale Spoorwegen.
 - myESO: Elder Scrolls Online Companion app.
 - AltoThought: an iOS app for cognitive behavioral therapy.
 
-### 💡 Goals for 2023
+### 💡 Goals for 2024
 - Adding iCloud Synchronization to AltoThought
 - Make a first version of MyESO. An iOS app that serves as a companion for ESO players.
 
