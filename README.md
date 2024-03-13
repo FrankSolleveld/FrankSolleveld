@@ -18,7 +18,7 @@ Welcome to my GitHub! My name is Frank and this is where I showcase most of my w
 
 ### 💡 Goals for 2024
 - Adding iCloud Synchronization to AltoThought ✔️
-- Make a first version of MyESO. An iOS app that serves as a companion for ESO players.
+- Make a first version of MyESO. An iOS app that serves as a companion for ESO players ✔️
 - Multiplayer for Scrum Pokert
 
 ### 🌴 Fun facts
