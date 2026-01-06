@@ -20,8 +20,9 @@ Welcome to my GitHub! My name is Frank and this is where I showcase most of my w
 - PocketShelf: A Reading Tracker app
 - Helm: A native App Store Connect client for macOS and iOS
 
-### 💡 Goals for 2025
-- Publishing PocketShelf
+### 💡 Goals for 2026
+- Help organize the next edition of ARCtic Conference
+- Shipping major features for PocketShelf and Helm
 - Being able to have a whole indie day per week
 
 ### 🌴 Fun facts
