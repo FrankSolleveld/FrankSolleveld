@@ -4,13 +4,11 @@ Welcome to my GitHub! My name is Frank and this is where I showcase most of my w
 
 ### ⚡ Relevant achievements
 - Graduated at the University of Applied Sciences in 2021 
-- Published an app called ['AltoThought'](https://apps.apple.com/nl/app/altothought/id1620703133?l=en) to the Apple App Store in 2022
+- Published my first app ['AltoThought'](https://apps.apple.com/nl/app/altothought/id1620703133?l=en) to the App Store in 2022
 - Published Scrum Pokert in December 2023
 - Published myESO in March 2024
 - Launched my own company for my indie endeavors in April 2025
-
-### ✔️ I'm currently learning
-- Intents
+- Published PocketShelf in September 2025 together with Klemens Strasser
 
 ### 👩‍💻 I'm working on
 - the NS International app from Nationale Spoorwegen
